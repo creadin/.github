@@ -1,4 +1,4 @@
-# 🎨 CreadIn | Creative Digital Innovation
+# CreadIn | Creative Digital Innovation
 <p align="center">
   <img src="https://lh3.googleusercontent.com/d/1HnwUHL6G-E4qYb7vAa6xGLdUB7EiUKqC" alt="CreadIn Banner" width="100%">
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Us
+## About Us
 
 **CreadIn** is a **Digital Tech Agency** established in 2020, dedicated to crafting useful websites, applications, and brand identities that captivate audiences and define industries.
 
@@ -19,7 +19,7 @@ We may be a compact team, but our creativity knows no bounds. By staying agile a
 
 ---
 
-## 💡 Our Philosophy
+## Our Philosophy
 
 > **"Innovate + Inspire + Create"**
 
@@ -27,7 +27,7 @@ We believe in the power of collaboration, innovation, and meticulous execution. 
 
 ---
 
-## 🛠️ What We Do
+## What We Do
 
 ### 01 | Design & Branding
 - Brand Identity Development
@@ -62,13 +62,13 @@ We believe in the power of collaboration, innovation, and meticulous execution. 
 
 ---
 
-## 👥 The Creative Collective
+## The Creative Collective
 
 We are a diverse group of dreamers, doers, and creators united by a single mission: **to build extraordinary digital experiences.**
 
 ---
 
-## 🏆 Why Choose CreadIn?
+## Why Choose CreadIn?
 
 - ✅ **Agile Approach** — Compact team with boundless creativity
 - ✅ **Client-Centric** — Working hand-in-hand with our partners
@@ -78,7 +78,7 @@ We are a diverse group of dreamers, doers, and creators united by a single missi
 
 ---
 
-## 💬 Client Stories
+## Client Stories
 
 > *"The team's attention to detail is remarkable. The website is very responsive and the team is very responsive. Their strategic approach to UI/UX is exactly what we needed."*
 >
@@ -99,7 +99,7 @@ We transform ideas into masterpieces through our proven workflow:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Ready to scale? Let's turn your vision into a digital masterpiece!
 
@@ -123,7 +123,7 @@ Ready to scale? Let's turn your vision into a digital masterpiece!
 
 ---
 
-## 📧 Get In Touch
+## Get In Touch
 
 Have a project in mind or want to collaborate? We'd love to hear from you!
 
