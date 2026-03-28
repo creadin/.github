@@ -1,4 +1,7 @@
 # 🎨 CreadIn | Creative Digital Innovation
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1HnwUHL6G-E4qYb7vAa6xGLdUB7EiUKqC" alt="CreadIn Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Founded-2020-blue?style=flat-square" alt="Founded 2020">
@@ -62,14 +65,6 @@ We believe in the power of collaboration, innovation, and meticulous execution. 
 ## 👥 The Creative Collective
 
 We are a diverse group of dreamers, doers, and creators united by a single mission: **to build extraordinary digital experiences.**
-
-### Core Team
-
-| Name | Role | Expertise |
-|------|------|-----------|
-| **Dzikri Amrulloh** | Creative Director & Founder | Project Management, Digital Marketing, Data Analysis, UI/UX Design, Branding |
-| **Jajat Darajat** | Software Engineer | Full-Stack Development, Scalable Web Applications, Modern Frameworks |
-| **Maulana Malik** | Project Manager & Marketing | Communication Marketing, Project Coordination, Strategic Marketing |
 
 ---
 
